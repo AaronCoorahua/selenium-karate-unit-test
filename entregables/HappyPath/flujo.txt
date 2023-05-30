@@ -1,0 +1,11 @@
+TC#001: El sistema debe permitir agregar amigos al usuario e iniciar una videollamada
+
+1.El usuario se logea a la aplicación.
+2.El usuario busca el nombre de otro usuario.
+3.El sistema muestra debajo de la foto del otro usuario la opción para agregar como amigo.
+3.El usuario agrega al otro usuario como amigo.
+4.El usuario inicia una videollamada con su ahora amigo.
+5.El amigo acepta la videollamada
+6.Ambos usuario intercambian audio y texto durante la videollamada.
+7.El usuario X o Y elige la opción de finalizar videollmada.
+8.El sistema muestra un mensaje de videollamada Finalizada.
